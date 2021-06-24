@@ -22,8 +22,8 @@
 <br>
 
 ### 3. :bulb: 맡은 기능
-<p>SNS 형식으로 조회되는 커뮤니티<br>
-    무한 스크롤 방식으로 표현</p>
+<strong>SNS 형식으로 조회되는 커뮤니티<br>
+    무한 스크롤 방식으로 표현</strong>
  
 :heavy_check_mark: 기획 및 DB 설계 참여<br><br>
 :heavy_check_mark: 커뮤니티<br>
