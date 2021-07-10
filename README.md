@@ -11,10 +11,10 @@
 ### 2. 개발환경
 ```
   DB : Oracle 
+  Data Access : Mybatis
   Development Environment : Windows 10
   Language : Java, HTML5, CSS, JavaScript, JSP, Ajax
   WEB/WAS Server : Tomcat 8.0.5.2
-  Mybatis
   Framework : Spring, Bootstrap
   Library : JQuery
   Build tool : Maven 3.1.1 Release
